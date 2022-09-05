@@ -1,6 +1,7 @@
 site_name: citation docs
 repo_url: https://github.com/m2en/citation
 repo_name: m2en/citation
+edit_uri: https://github.com/m2en/citation-docs/edit/main/docs
 theme:
   name: material
   icon:
