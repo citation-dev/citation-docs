@@ -8,8 +8,8 @@ Cloudflare Pages でホスティングしています。
 
 ## Usage
 
-build: `mkdocs build`
-dev: `mkdocs serve`
+- build: `mkdocs build`
+- dev: `mkdocs serve`
 
 ## Reference
 
