@@ -7,4 +7,5 @@ citation の公式ドキュメント "citation docs" へようこそ！
 ----
 
 - [Getting Started](./getting-started.md)
-- [Reference](./reference/index.md)
+- [Reference / リファレンス(使い方)](./reference/index.md)
+- [Community / コミュニティ](./community/index.md)
