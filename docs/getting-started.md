@@ -78,8 +78,11 @@ citationは以下の方法で利用できます。
     次のコマンドを実行し、citationをビルドしてください。
 
     ```bash
+    # ssh
     git clone git@github.com:m2en/citation.git
-    # git clone https://github.com/m2en/citation.git
+
+    # https
+    git clone https://github.com/m2en/citation.git
 
     cd citation
 
