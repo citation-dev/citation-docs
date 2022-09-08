@@ -1,6 +1,6 @@
 # Getting started
 
-citaionは、メッセージリンクのプレビューをEmbedで表示するDiscord Botです。
+citationは、メッセージリンクのプレビューをEmbedで表示するDiscord Botです。
 
 前代の [MessageQuote](https://github.com/m2en/MessageQuote) で見つかった問題点を解決するのを目的にプログラミング言語 **[Kotlin](https://kotlinlang.org/)** で再実装しています。
 
