@@ -4,6 +4,7 @@ repo_name: m2en/citation
 edit_uri: https://github.com/m2en/citation-docs/edit/main/docs
 theme:
   name: material
+  logo: assets/images/favicon.png
   icon:
     repo: fontawesome/brands/github
   palette:
