@@ -4,7 +4,7 @@
 
     GitHub の `CONTRIBUTING.md` ファイルとcitation docsに差異がある場合は、GitHub の `CONTRIBUTING.md` ファイルに記載されているものが優先されます。
 
-    - [citation Contributing Guide(https://github.com/m2en/citation/blob/main/.github/CONTRIBUTING.md)
+    - [citation Contributing Guide](https://github.com/m2en/citation/blob/main/.github/CONTRIBUTING.md)
 
 ## Contribution Flow
 
